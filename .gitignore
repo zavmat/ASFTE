@@ -1,0 +1,11 @@
+/venv/
+/src/__OLDmain.py
+/src/__OLDTermMatrix.py
+/notebooks/TrainNER.ipynb
+/notebooks/____TermMatcher.ipynb
+/notebooks/____TextExtract.ipynb
+/notebooks/____TODEL__09052021.ipynb
+/notebooks/____TODEL__BOWBaseClassifier.ipynb
+/data/ner/
+/data/Patterns/
+/nmf-10topics.pkl

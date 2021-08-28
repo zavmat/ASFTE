@@ -1,0 +1,85 @@
+﻿formats/type;formats/url;filters/type;filters/key;expected_product_hierarchy_aggr;expected_product_hierarchy_full;is_included_in_eval;is_mapping_clear;notes
+HTML;/apex/HTViewHelpDoc?id=basics_welcome_salesforce_users.htm&language=en_US;cloud;salesforce_general;platform;platform;TRUE;FALSE;General Document Describing Platform Features around Authentication and Navigation
+HTML;https://releasenotes.docs.salesforce.com/;cloud;analytics_cloud;crm-analytics;crm-analytics;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_rn_release_notes.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;NA;TRUE;FALSE;Release notes covering multiple products
+HTML;/apex/HTViewHelpDoc?id=icx_b2c_intro_parent.htm&language=en_US;cloud;cross_cloud;NA;NA;FALSE;FALSE;Document contains multiple products
+HTML;/apex/HTViewHelpDoc?id=data_protection_and_privacy.htm&language=en_US;cloud;salesforce_general;NA;NA;FALSE;FALSE;Describing GDPR aspects related to multiple products
+HTML;/apex/HTViewHelpDoc?id=lex_welcome_to_lex.htm&language=en_US;cloud;salesforce_general;platform;platform;TRUE;FALSE;Describing migration concepts mainly related to the platform product
+HTML;/apex/HTViewHelpDoc?id=identity_overview.htm&language=en_US;cloud;salesforce_general;platform;platform;TRUE;FALSE;Describing identity management being part of the platform
+HTML;/apex/HTViewHelpDoc?id=salesforce_maps_intro.htm&language=en_US;cloud;salesforce_general;sales-cloud;sales-cloud/salesforce-maps;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=setup_overview.htm&language=en_US;cloud;salesforce_general;platform;platform;TRUE;TRUE;Describing basic user management and other platform concepts
+HTML;/apex/HTViewHelpDoc?id=custom_ai_home.htm&language=en_US;cloud;einstein;crm-analytics;crm-analytics;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=analytics_landing_page.htm&language=en_US;cloud;analytics_cloud;crm-analytics;crm-analytics;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=extend_click_process.htm&language=en_US;cloud;salesforce_platform;platform;platform;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=b2b_commerce.htm&language=en_US;cloud;commerce_cloud;commerce-cloud;commerce-cloud/b2b;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=b2b_commerce_release_notes.htm&language=en_US;cloud;commerce_cloud;commerce-cloud;commerce-cloud/b2b;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=b2c_product_enablement.htm&language=en_US;cloud;commerce_cloud;commerce-cloud;commerce-cloud/b2c;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=b2c_rn_release_notes.htm&language=en_US;cloud;commerce_cloud;commerce-cloud;commerce-cloud/b2c;TRUE;TRUE;
+HTML;https://documentation.b2c.commercecloud.salesforce.com/DOC1/index.jsp;cloud;commerce_cloud;commerce-cloud;commerce-cloud/b2c;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mfg_user_parent_concept.htm&language=en_US;cloud;manufacturing_cloud;manufacturing-cloud;manufacturing-cloud;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=collaboration_users_welcome.htm&language=en_US;cloud;community_cloud;NA;NA;FALSE;FALSE;Document covers multiple products from communication perspective
+HTML;/apex/HTViewHelpDoc?id=customer360_a.htm&language=en_US;cloud;cross_cloud;marketing-cloud;marketing-cloud/audience;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=c360_basics.htm&language=en_US;cloud;cross_cloud;platform;platform;TRUE;FALSE;C360 is an integration product and part of the platform
+HTML;/apex/HTViewHelpDoc?id=customer360_release_notes.htm&language=en_US;cloud;cross_cloud;NA;NA;FALSE;FALSE;Release notes covering both the C360 integration and C360 audiences product
+HTML;/apex/HTViewHelpDoc?id=data_quality.htm&language=en_US;cloud;sales_cloud;sales-cloud;sales-cloud;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=health1.htm&language=en_US;cloud;health_cloud;health-cloud;health-cloud;TRUE;FALSE;Emergency response is a small part of Health cloud relying on stan dard platform and communities
+HTML;/apex/HTViewHelpDoc?id=emergency_response_management_intro.htm&language=en_US;cloud;health_cloud;health-cloud;health-cloud;TRUE;FALSE;Emergency response is a small part of Health cloud relying on stan dard platform and communities
+HTML;/apex/HTViewHelpDoc?id=emergency_response_mgmt_program_requests_intro.htm&language=en_US;cloud;salesforce_general;health-cloud;health-cloud;TRUE;FALSE;Emergency response is a small part of Health cloud relying on stan dard platform and communities
+HTML;/apex/HTViewHelpDoc?id=concept_salesforce_surveys.htm&language=en_US;cloud;salesforce_platform;platform;community-cloud/partner-relationship-management;TRUE;FALSE;Surveys is an addon product
+HTML;/apex/HTViewHelpDoc?id=extend_code_overview.htm&language=en_US;cloud;salesforce_platform;platform;platform;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=essentials.htm&language=en_US;cloud;salesforce_general;NA;NA;TRUE;FALSE;Essentials is a combination of sales and service cloud
+HTML;/apex/HTViewHelpDoc?id=extend_click_intro.htm&language=en_US;cloud;salesforce_platform;platform;NA;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=fs_overview.htm&language=en_US;cloud;service_cloud;service-cloud;NA;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=fsc.htm&language=en_US;cloud;financial_services_cloud;financial-services-cloud;financial-services-cloud;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=fsc_forbearance_implementation_guide.htm&language=en_US;cloud;cross_cloud;financial-services-cloud;financial-services-cloud;TRUE;FALSE;This solution kit combines multiple products like FSC, marketing etc.
+HTML;/apex/HTViewHelpDoc?id=search_find_organize.htm&language=en_US;cloud;salesforce_general;platform;platform;TRUE;FALSE;
+HTML;/apex/HTViewHelpDoc?id=mfa_welcome_to_mfa.htm&language=en_US;cloud;salesforce_general;platform;platform;TRUE;FALSE;
+HTML;/apex/HTViewHelpDoc?id=optimizer_introduction.htm&language=en_US;cloud;salesforce_general;platform;platform;TRUE;FALSE;
+HTML;/apex/HTViewHelpDoc?id=bundle_pardot_parent.htm&language=en_US;cloud;sales_cloud;marketing-cloud;marketing-cloud/pardot;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_ads_advertising_studio.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;marketing-cloud/ads;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_ca_campaigns.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;marketing-cloud/email;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_contact_data.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;marketing-cloud/audience;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_content_creation.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;NA;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_cross_cloud_products.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;NA;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_data_management_and_analytics.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;NA;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_email.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;marketing-cloud/email;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_external_integrations.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;NA;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_implementation_guides.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;NA;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_is_interaction_studio.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;NA;TRUE;FALSE;Has no pricing page
+HTML;/apex/HTViewHelpDoc?id=mc_journeys_and_automations.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;marketing-cloud/email;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_ma_marketing_cloud_mobile_app.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;marketing-cloud/email;TRUE;FALSE;Mobile app mainly covering marketing-cloud/email
+HTML;/apex/HTViewHelpDoc?id=mc_mobile_studio.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;marketing-cloud/email;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_scripting_languages.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;NA;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mc_overview_marketing_cloud.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;NA;TRUE;TRUE;Generic Maketing Cloud functionality
+HTML;/apex/HTViewHelpDoc?id=mc_social.htm&language=en_US;cloud;marketing_cloud;marketing-cloud;marketing-cloud/social;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mobile_security.htm&language=en_US;cloud;salesforce_general;NA;NA;FALSE;FALSE;
+HTML;/apex/HTViewHelpDoc?id=s1_branded_apps.htm&language=en_US;cloud;salesforce_general;NA;NA;FALSE;FALSE;
+HTML;/apex/HTViewHelpDoc?id=mth_intro.htm&language=en_US;cloud;trailhead;mytrailhead;mytrailhead;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=package_distribute_apps_overview.htm&language=en_US;cloud;salesforce_platform;platform;platform;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=pardot_rn_parent.htm&language=en_US;cloud;sales_cloud;marketing-cloud;marketing-cloud/pardot;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=psc_admin_concept_psc_welcom.htm&language=en_US;cloud;salesforce_general;NA;NA;FALSE;FALSE;No feature page
+HTML;/apex/HTViewHelpDoc?id=psc_user_concept_approvals.htm&language=en_US;cloud;salesforce_general;NA;NA;FALSE;FALSE;No feature page
+HTML;/apex/HTViewHelpDoc?id=sustainability_manager_intro.htm&language=en_US;cloud;sustainability_cloud;NA;NA;FALSE;FALSE;No feature page
+HTML;/apex/HTViewHelpDoc?id=retail_concept_user_get_started.htm&language=en_US;cloud;retail_execution_cloud;consumer-goods-cloud;consumer-goods-cloud;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=sales_core.htm&language=en_US;cloud;sales_cloud;sales-cloud;sales-cloud;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=einstein_sales.htm&language=en_US;cloud;sales_cloud;sales-cloud;sales-cloud/inbox-and-einstein;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=sales_productivity.htm&language=en_US;cloud;sales_cloud;sales-cloud;NA;TRUE;FALSE;Document covers multiple sub-producgs
+HTML;/apex/HTViewHelpDoc?id=anywhere_app_parent.htm&language=en_US;cloud;salesforce_general;NA;NA;TRUE;FALSE;
+HTML;/apex/HTViewHelpDoc?id=blng_billing_parent.htm&language=en_US;cloud;sales_cloud;salesforce-quote-to-cash;salesforce-quote-to-cash;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=community_managed_content_overview.htm&language=en_US;cloud;salesforce_general;cms;cms;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=console2_about.htm&language=en_US;cloud;service_cloud;service-cloud;service-cloud;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=cpq_master.htm&language=en_US;cloud;sales_cloud;salesforce-quote-to-cash;salesforce-quote-to-cash;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=iotx_home.htm&language=en_US;cloud;salesforce_iot;NA;NA;TRUE;TRUE;Product decomissioned
+HTML;/apex/HTViewHelpDoc?id=salesforce_app.htm&language=en_US;cloud;salesforce_general;NA;NA;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=om_order_management.htm&language=en_US;cloud;commerce_cloud;commerce-cloud;commerce-cloud/order-management;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=salesforcea_overview.htm&language=en_US;cloud;salesforce_general;;;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=deploy_sandboxes_parent.htm&language=en_US;cloud;salesforce_platform;platform;;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=service_cloud.htm&language=en_US;cloud;service_cloud;service-cloud;;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=collaboration_admin_welcome.htm&language=en_US;cloud;community_cloud;community-cloud;;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=mfg_admin_parent_concept.htm&language=en_US;cloud;manufacturing_cloud;manufacturing-cloud;manufacturing-cloud;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=retail_concept_admin_overview.htm&language=en_US;cloud;retail_execution_cloud;consumer-goods-cloud;consumer-goods-cloud;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=networks_overview.htm&language=en_US;cloud;community_cloud;community-cloud;;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=get_started_with_trailblazer_id.htm&language=en_US;cloud;salesforce_general;NA;;FALSE;FALSE;This document describes the Trailblazer login which is the SSO to all Salesforce sites.
+HTML;/apex/HTViewHelpDoc?id=workdotcom_rn.htm&language=en_US;cloud;work.com;NA;;TRUE;TRUE;
+HTML;/apex/HTViewHelpDoc?id=workdotcom.htm&language=en_US;cloud;work.com;NA;;TRUE;TRUE;
+HTML;https://help.salesforce.com/articleView?id=Trust-and-Compliance-Documentation&type=1&language=en_US;;;NA;;;;
